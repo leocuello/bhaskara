@@ -1,5 +1,5 @@
 
-#Validar que sea in numero entero
+#Validar que sea entero
 a = int(input("Introduce la variable cuadrática:\n"))
 b = int(input("Introduce la variable lineal:\n"))
 c = int(input("Introduce wl término independiente:\n"))
