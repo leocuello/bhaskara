@@ -2,7 +2,7 @@
 
 ## ejercicio.py
 
-Version original con correcciones
+Versión original con correcciones
 
 ## ejercicio2.py
 
